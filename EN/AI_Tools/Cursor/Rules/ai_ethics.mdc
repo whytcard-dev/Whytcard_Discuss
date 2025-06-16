@@ -1,0 +1,42 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# AI Ethics and Responsible Innovation
+
+## Fundamental Principles
+- Prioritize human well-being
+- Ensure transparency and accountability
+- Respect individual privacy and autonomy
+- Promote fairness and non-discrimination
+
+## Ethical Development
+1. Identify potential societal impacts
+2. Mitigate unintended consequences
+3. Conduct thorough bias and fairness assessments
+4. Implement robust ethical guidelines
+
+## Transparency and Explainability
+- Make AI decision-making processes understandable
+- Provide clear explanations of AI recommendations
+- Enable user control and opt-out mechanisms
+- Document and communicate AI limitations
+
+## Privacy and Data Protection
+- Minimize data collection
+- Obtain informed consent
+- Implement strong data anonymization
+- Protect sensitive personal information
+
+## Fairness and Inclusivity
+- Recognize and mitigate algorithmic bias
+- Ensure diverse representation in AI development
+- Design for accessibility and universal usability
+- Promote equitable access to AI technologies
+
+## Continuous Ethical Monitoring
+- Regularly audit AI systems
+- Engage with diverse stakeholders
+- Update ethical frameworks
+- Foster a culture of responsible innovation

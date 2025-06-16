@@ -1,0 +1,83 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Cloud Computing Infrastructure
+
+## Architectural Principles
+- Scalability
+- High Availability
+- Fault Tolerance
+- Elasticity
+- Resource Optimization
+
+## Service Models
+- Infrastructure as a Service (IaaS)
+- Platform as a Service (PaaS)
+- Software as a Service (SaaS)
+- Serverless Computing
+- Function as a Service (FaaS)
+
+## Deployment Strategies
+- Multi-Cloud Architecture
+- Hybrid Cloud
+- Private Cloud
+- Public Cloud
+- Edge Computing
+
+## Network Design
+- Virtual Private Cloud (VPC)
+- Subnetting
+- Load Balancing
+- Content Delivery Networks
+- Network Security Groups
+
+## Security Considerations
+- Identity and Access Management
+- Encryption
+- Compliance
+- Zero Trust Architecture
+- Threat Detection
+
+## Cost Management
+- Resource Tagging
+- Rightsizing
+- Reserved Instances
+- Spot Instances
+- Cost Optimization Strategies
+
+## Monitoring and Observability
+- Logging
+- Performance Metrics
+- Distributed Tracing
+- Alerting Systems
+- Automated Remediation
+
+## Containerization
+- Docker
+- Kubernetes
+- Container Orchestration
+- Microservices Architecture
+- Service Mesh
+
+## Disaster Recovery
+- Backup Strategies
+- Replication
+- Failover Mechanisms
+- Recovery Point Objective (RPO)
+- Recovery Time Objective (RTO)
+
+## Emerging Technologies
+- Serverless Frameworks
+- AI/ML Infrastructure
+- Quantum Computing Services
+- Blockchain as a Service
+- IoT Cloud Platforms
+
+## Best Practices
+- Infrastructure as Code
+- Continuous Integration/Deployment
+- Automated Scaling
+- Performance Testing
+- Security Audits

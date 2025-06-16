@@ -1,0 +1,90 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Ethical Artificial Intelligence
+
+## Foundational Principles
+- Human-Centered Design
+- Transparency
+- Accountability
+- Fairness
+- Do No Harm
+
+## Bias Mitigation
+- Algorithmic Bias Detection
+- Diverse Training Data
+- Representation Analysis
+- Fairness Metrics
+- Inclusive Design
+
+## Privacy Preservation
+- Data Minimization
+- Anonymization Techniques
+- Consent Mechanisms
+- Differential Privacy
+- Federated Learning
+
+## Transparency and Explainability
+- Interpretable AI Models
+- Model Visualization
+- Feature Importance
+- Counterfactual Explanations
+- Ethical Decision Tracing
+
+## Accountability Frameworks
+- AI Governance
+- Ethical Review Boards
+- Impact Assessments
+- Regulatory Compliance
+- Responsible Innovation
+
+## Fairness in Machine Learning
+- Equal Opportunity
+- Demographic Parity
+- Disparate Impact Analysis
+- Intersectional Fairness
+- Contextual Fairness
+
+## Safety and Robustness
+- Adversarial Robustness
+- Fail-Safe Mechanisms
+- Uncertainty Quantification
+- Robustness Testing
+- Ethical Constraints
+
+## Social Impact Considerations
+- Societal Consequences
+- Economic Displacement
+- Digital Divide
+- Accessibility
+- Cultural Sensitivity
+
+## Human-AI Collaboration
+- Augmented Intelligence
+- Complementary Roles
+- Trust-Building Mechanisms
+- Interaction Design
+- Continuous Learning
+
+## Ethical Decision Making
+- Value Alignment
+- Moral Reasoning
+- Contextual Understanding
+- Empathy Modeling
+- Ethical Dilemma Resolution
+
+## Emerging Challenges
+- AI Rights
+- Consciousness Considerations
+- Long-Term Existential Risk
+- Global AI Governance
+- Interdisciplinary Collaboration
+
+## Practical Implementation
+- Ethical AI Checklists
+- Responsible Development Practices
+- Continuous Monitoring
+- Community Engagement
+- Iterative Improvement

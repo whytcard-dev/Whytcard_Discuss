@@ -1,0 +1,90 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Clean Software Architecture
+
+## Foundational Principles
+- Separation of Concerns
+- Dependency Inversion
+- Single Responsibility Principle
+- Open/Closed Principle
+- Interface Segregation
+
+## Architectural Layers
+- Presentation Layer
+- Business Logic Layer
+- Data Access Layer
+- Domain Layer
+- Infrastructure Layer
+
+## Design Patterns
+- Repository Pattern
+- Factory Pattern
+- Strategy Pattern
+- Adapter Pattern
+- Decorator Pattern
+
+## Dependency Management
+- Dependency Injection
+- Inversion of Control
+- Service Locator
+- Composition Root
+- Modular Design
+
+## Code Quality
+- SOLID Principles
+- DRY (Don't Repeat Yourself)
+- KISS (Keep It Simple, Stupid)
+- YAGNI (You Aren't Gonna Need It)
+- Code Readability
+
+## Testing Strategies
+- Unit Testing
+- Integration Testing
+- Behavior-Driven Development
+- Test-Driven Development
+- Mutation Testing
+
+## Performance Considerations
+- Efficient Algorithms
+- Memory Management
+- Lazy Loading
+- Caching Strategies
+- Asynchronous Processing
+
+## Scalability
+- Horizontal Scaling
+- Vertical Scaling
+- Microservices Architecture
+- Event-Driven Architecture
+- Service Orchestration
+
+## Security Principles
+- Input Validation
+- Authentication
+- Authorization
+- Encryption
+- Secure Defaults
+
+## Refactoring Techniques
+- Code Smells Detection
+- Continuous Refactoring
+- Technical Debt Management
+- Incremental Improvements
+- Automated Refactoring Tools
+
+## Emerging Architectural Trends
+- Serverless Architecture
+- Reactive Programming
+- Domain-Driven Design
+- Event Sourcing
+- Command Query Responsibility Segregation (CQRS)
+
+## Best Practices
+- Documentation
+- Code Reviews
+- Continuous Integration
+- Performance Profiling
+- Automated Testing

@@ -1,0 +1,97 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Comprehensive Testing Strategies
+
+## Foundational Principles
+- Test Coverage
+- Reliability
+- Repeatability
+- Maintainability
+- Continuous Improvement
+
+## Testing Types
+- Unit Testing
+- Integration Testing
+- Functional Testing
+- End-to-End Testing
+- Performance Testing
+
+## Test-Driven Development
+- Red-Green-Refactor
+- Behavior-Driven Development
+- Test-First Approach
+- Specification by Example
+- Acceptance Test-Driven Development
+
+## Test Automation
+- Continuous Integration
+- Automated Test Suites
+- Parallel Testing
+- Cross-Browser Testing
+- Headless Testing
+
+## Performance Testing
+- Load Testing
+- Stress Testing
+- Scalability Testing
+- Benchmark Testing
+- Profiling
+
+## Security Testing
+- Penetration Testing
+- Vulnerability Scanning
+- Threat Modeling
+- Fuzzing
+- Security Regression Testing
+
+## Quality Metrics
+- Code Coverage
+- Mutation Testing
+- Cyclomatic Complexity
+- Test Effectiveness
+- Defect Density
+
+## Mocking and Stubbing
+- Dependency Injection
+- Mock Objects
+- Stub Implementations
+- Test Doubles
+- Fake Services
+
+## Continuous Testing
+- Shift-Left Testing
+- DevOps Integration
+- Continuous Validation
+- Automated Deployment
+- Feedback Loops
+
+## Advanced Testing Techniques
+- Property-Based Testing
+- Chaos Engineering
+- Mutation Testing
+- Contract Testing
+- Generative Testing
+
+## Test Environment
+- Containerized Testing
+- Cloud Testing
+- Virtualization
+- Simulation
+- Realistic Data Generation
+
+## Emerging Technologies
+- AI-Powered Testing
+- Machine Learning Validation
+- Quantum Testing
+- IoT Testing
+- Blockchain Testing
+
+## Best Practices
+- Clear Test Cases
+- Maintainable Test Code
+- Fast Execution
+- Comprehensive Coverage
+- Continuous Learning

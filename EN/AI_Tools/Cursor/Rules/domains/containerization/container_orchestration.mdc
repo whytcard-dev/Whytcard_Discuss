@@ -1,0 +1,97 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Container Orchestration and Management
+
+## Foundational Principles
+- Scalability
+- Portability
+- Efficiency
+- Isolation
+- Reproducibility
+
+## Container Technologies
+- Docker
+- Podman
+- LXC
+- CRI-O
+- Containerd
+
+## Orchestration Platforms
+- Kubernetes
+- Docker Swarm
+- Apache Mesos
+- Nomad
+- OpenShift
+
+## Deployment Strategies
+- Rolling Updates
+- Blue-Green Deployment
+- Canary Releases
+- A/B Testing
+- Stateful Applications
+
+## Networking
+- Container Networking
+- Service Discovery
+- Load Balancing
+- Network Policies
+- Ingress Controllers
+
+## Storage Management
+- Persistent Volumes
+- Storage Classes
+- Volume Snapshots
+- Dynamic Provisioning
+- Stateful Sets
+
+## Security Practices
+- Container Scanning
+- Runtime Security
+- Secret Management
+- Network Segmentation
+- Least Privilege Principle
+
+## Monitoring and Logging
+- Prometheus
+- Grafana
+- ELK Stack
+- Distributed Tracing
+- Performance Metrics
+
+## Scaling Techniques
+- Horizontal Pod Autoscaling
+- Cluster Autoscaling
+- Resource Quotas
+- Predictive Scaling
+- Event-Driven Scaling
+
+## Advanced Configuration
+- Custom Resource Definitions
+- Operators
+- Helm Charts
+- Kustomize
+- GitOps Workflows
+
+## Performance Optimization
+- Resource Allocation
+- Caching Strategies
+- Workload Scheduling
+- Bin Packing
+- Efficient Cluster Management
+
+## Emerging Technologies
+- Serverless Containers
+- Edge Computing
+- Multi-Cluster Management
+- AI/ML Orchestration
+- Hybrid Cloud Deployments
+
+## Best Practices
+- Infrastructure as Code
+- Continuous Integration
+- Automated Testing
+- Documentation
+- Security Compliance

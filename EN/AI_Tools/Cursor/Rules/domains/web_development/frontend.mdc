@@ -1,0 +1,69 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Frontend Web Development Best Practices
+
+## Architecture
+- Component-based design
+- Modular architecture
+- Separation of concerns
+- Single Responsibility Principle
+
+## Performance Optimization
+- Minimize DOM manipulation
+- Implement lazy loading
+- Code splitting
+- Tree shaking
+- Efficient state management
+
+## Framework Agnostic Principles
+- Responsive design
+- Cross-browser compatibility
+- Accessibility standards
+- Progressive enhancement
+
+## State Management
+- Unidirectional data flow
+- Immutable data structures
+- Predictable state containers
+- Centralized state management
+
+## Performance Monitoring
+- Lighthouse audits
+- Performance profiling
+- Network optimization
+- Rendering efficiency
+
+## Security Considerations
+- XSS prevention
+- CSRF protection
+- Input sanitization
+- Secure authentication flows
+
+## Accessibility
+- WCAG compliance
+- Semantic HTML
+- ARIA attributes
+- Keyboard navigation
+- Screen reader support
+
+## Modern Development Workflow
+- Component libraries
+- Design systems
+- Atomic design principles
+- Continuous integration
+- Automated testing
+
+## Advanced Techniques
+- Server-side rendering
+- Static site generation
+- Micro-frontends
+- WebAssembly integration
+
+## Performance Metrics
+- First Contentful Paint
+- Time to Interactive
+- Cumulative Layout Shift
+- Total Blocking Time

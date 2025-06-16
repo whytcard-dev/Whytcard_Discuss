@@ -1,0 +1,97 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Frontend Architecture and Design
+
+## Foundational Principles
+- Component-Based Design
+- Modularity
+- Separation of Concerns
+- Performance
+- Scalability
+
+## Architectural Patterns
+- Atomic Design
+- Flux Architecture
+- Model-View-ViewModel
+- Micro Frontends
+- Serverless Frontend
+
+## State Management
+- Redux
+- MobX
+- Vuex
+- Context API
+- RxJS
+
+## Rendering Strategies
+- Server-Side Rendering
+- Static Site Generation
+- Client-Side Rendering
+- Incremental Static Regeneration
+- Hybrid Rendering
+
+## Performance Optimization
+- Code Splitting
+- Lazy Loading
+- Tree Shaking
+- Memoization
+- Virtual DOM
+
+## Styling Approaches
+- CSS-in-JS
+- CSS Modules
+- Styled Components
+- Tailwind CSS
+- SASS/SCSS
+
+## Component Libraries
+- React
+- Vue
+- Angular
+- Svelte
+- Web Components
+
+## Testing Strategies
+- Unit Testing
+- Integration Testing
+- End-to-End Testing
+- Visual Regression Testing
+- Performance Testing
+
+## Accessibility
+- WCAG Compliance
+- Semantic HTML
+- ARIA Attributes
+- Keyboard Navigation
+- Screen Reader Support
+
+## Security Considerations
+- Cross-Site Scripting Prevention
+- Content Security Policy
+- Authentication
+- CSRF Protection
+- Input Sanitization
+
+## Build and Deployment
+- Webpack
+- Vite
+- Rollup
+- Parcel
+- Continuous Integration
+
+## Emerging Technologies
+- WebAssembly
+- Progressive Web Apps
+- Micro Frontends
+- Server Components
+- Edge Rendering
+
+## Best Practices
+- Code Quality
+- Performance Monitoring
+- Continuous Refactoring
+- Design Systems
+- Developer Experience

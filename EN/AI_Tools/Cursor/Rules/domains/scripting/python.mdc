@@ -1,0 +1,54 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Python Scripting Best Practices
+
+## Fundamentals
+- Use PEP 8 style guide
+- Write clean, readable code
+- Follow DRY (Don't Repeat Yourself) principle
+
+## Code Structure
+- Use meaningful variable and function names
+- Implement type hints
+- Utilize docstrings for documentation
+- Organize code into logical modules
+
+## Performance Optimization
+- Use list comprehensions
+- Leverage built-in functions
+- Implement lazy evaluation
+- Use generators for memory efficiency
+
+## Error Handling
+- Implement comprehensive exception handling
+- Use context managers (with statements)
+- Log errors systematically
+- Fail gracefully
+
+## Advanced Techniques
+- Functional programming concepts
+- Decorators and metaprogramming
+- Asynchronous programming
+- Use of typing module
+
+## Best Practices
+- Virtual environments
+- Dependency management
+- Code linting
+- Automated testing
+- Continuous integration
+
+## Security Considerations
+- Input validation
+- Avoid hardcoded credentials
+- Use secure libraries
+- Implement proper access controls
+
+## Performance Monitoring
+- Profiling tools
+- Memory management
+- Bottleneck identification
+- Optimization strategies

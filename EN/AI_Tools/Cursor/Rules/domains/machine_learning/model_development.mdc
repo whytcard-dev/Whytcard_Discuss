@@ -1,0 +1,81 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Machine Learning Model Development
+
+## Foundational Concepts
+- Supervised vs Unsupervised Learning
+- Bias-Variance Tradeoff
+- Model Complexity
+- Generalization
+
+## Data Preparation
+- Data Collection Strategies
+- Feature Engineering
+- Data Augmentation
+- Handling Imbalanced Datasets
+- Preprocessing Techniques
+
+## Model Selection
+- Algorithm Selection
+- Complexity vs Performance
+- Interpretability
+- Domain-Specific Considerations
+- Ensemble Methods
+
+## Training Techniques
+- Transfer Learning
+- Fine-Tuning
+- Few-Shot Learning
+- Meta-Learning
+- Incremental Learning
+
+## Hyperparameter Optimization
+- Grid Search
+- Random Search
+- Bayesian Optimization
+- Genetic Algorithms
+- Neural Architecture Search
+
+## Model Evaluation
+- Cross-Validation
+- Performance Metrics
+- Confusion Matrix
+- ROC Curve
+- Learning Curves
+
+## Regularization Techniques
+- L1/L2 Regularization
+- Dropout
+- Early Stopping
+- Data Augmentation
+- Batch Normalization
+
+## Advanced Architectures
+- Deep Neural Networks
+- Convolutional Networks
+- Recurrent Networks
+- Transformer Models
+- Graph Neural Networks
+
+## Ethical AI Considerations
+- Bias Detection
+- Fairness Metrics
+- Explainable AI
+- Privacy Preservation
+- Responsible AI Development
+
+## Deployment Strategies
+- Model Versioning
+- Continuous Training
+- A/B Testing
+- Monitoring and Logging
+- Performance Tracking
+
+## Emerging Trends
+- Federated Learning
+- Quantum Machine Learning
+- Self-Supervised Learning
+- Neuromorphic Computing

@@ -1,0 +1,73 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Data Analysis Best Practices
+
+## Foundational Principles
+- Data integrity
+- Reproducibility
+- Transparency
+- Ethical data handling
+
+## Data Preparation
+- Data cleaning techniques
+- Handling missing values
+- Outlier detection
+- Feature engineering
+- Normalization and scaling
+
+## Exploratory Data Analysis
+- Descriptive statistics
+- Visualization techniques
+- Correlation analysis
+- Dimensionality reduction
+- Pattern recognition
+
+## Statistical Methods
+- Hypothesis testing
+- Confidence intervals
+- Regression analysis
+- Time series analysis
+- Bayesian inference
+
+## Machine Learning Workflow
+- Feature selection
+- Model selection
+- Cross-validation
+- Hyperparameter tuning
+- Ensemble methods
+
+## Performance Metrics
+- Accuracy
+- Precision and recall
+- F1 score
+- ROC curve
+- Confusion matrix
+
+## Advanced Techniques
+- Unsupervised learning
+- Clustering algorithms
+- Dimensionality reduction
+- Transfer learning
+- Interpretable AI
+
+## Tools and Technologies
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Ethical Considerations
+- Bias detection
+- Fairness in algorithms
+- Privacy preservation
+- Transparency in modeling
+
+## Reporting and Communication
+- Clear visualizations
+- Storytelling with data
+- Executive summaries
+- Actionable insights

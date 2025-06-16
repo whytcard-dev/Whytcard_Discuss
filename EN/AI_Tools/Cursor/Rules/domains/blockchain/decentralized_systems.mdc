@@ -1,0 +1,90 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Decentralized Systems and Blockchain Architecture
+
+## Foundational Concepts
+- Distributed Ledger Technology
+- Consensus Mechanisms
+- Cryptographic Principles
+- Decentralization Principles
+- Trust Less Systems
+
+## Blockchain Types
+- Public Blockchains
+- Private Blockchains
+- Consortium Blockchains
+- Hybrid Blockchains
+- Sidechains
+
+## Consensus Algorithms
+- Proof of Work
+- Proof of Stake
+- Delegated Proof of Stake
+- Practical Byzantine Fault Tolerance
+- Proof of Authority
+
+## Smart Contract Development
+- Solidity Programming
+- Contract Security
+- Gas Optimization
+- Upgradeable Contracts
+- Formal Verification
+
+## Cryptographic Techniques
+- Public Key Cryptography
+- Hash Functions
+- Digital Signatures
+- Zero-Knowledge Proofs
+- Merkle Trees
+
+## Decentralized Applications (DApps)
+- Architecture Patterns
+- Frontend Integration
+- State Management
+- Wallet Connectivity
+- Governance Models
+
+## Scalability Solutions
+- Layer 2 Protocols
+- Sharding
+- State Channels
+- Plasma
+- Rollups
+
+## Interoperability
+- Cross-Chain Communication
+- Bridge Protocols
+- Atomic Swaps
+- Wrapped Tokens
+- Multichain Architectures
+
+## Security Considerations
+- Smart Contract Auditing
+- Attack Vectors
+- Secure Key Management
+- Governance Security
+- Decentralized Identity
+
+## Economic Models
+- Tokenomics
+- Incentive Mechanisms
+- Staking
+- Yield Farming
+- Liquidity Pools
+
+## Emerging Technologies
+- Decentralized Finance (DeFi)
+- Non-Fungible Tokens (NFTs)
+- Decentralized Autonomous Organizations
+- Web3 Infrastructure
+- Quantum-Resistant Cryptography
+
+## Ethical and Legal Considerations
+- Regulatory Compliance
+- Privacy Preservation
+- Ethical Token Design
+- Sustainable Blockchain
+- Social Impact

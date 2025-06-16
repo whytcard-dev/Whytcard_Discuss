@@ -1,0 +1,90 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# System Infrastructure Management
+
+## Foundational Principles
+- Reliability
+- Scalability
+- Security
+- Performance
+- Cost-Effectiveness
+
+## Infrastructure Types
+- On-Premises
+- Cloud Infrastructure
+- Hybrid Infrastructure
+- Edge Computing
+- Containerized Infrastructure
+
+## Configuration Management
+- Infrastructure as Code
+- Automated Provisioning
+- Declarative Configuration
+- State Management
+- Immutable Infrastructure
+
+## Monitoring and Observability
+- Performance Metrics
+- Log Management
+- Alerting Systems
+- Distributed Tracing
+- Real-Time Dashboards
+
+## Security Practices
+- Access Control
+- Patch Management
+- Vulnerability Scanning
+- Incident Response
+- Compliance Monitoring
+
+## Backup and Recovery
+- Disaster Recovery Planning
+- Backup Strategies
+- Redundancy
+- Failover Mechanisms
+- Data Replication
+
+## Resource Management
+- Capacity Planning
+- Resource Allocation
+- Cost Optimization
+- Performance Tuning
+- Workload Balancing
+
+## Automation Techniques
+- Continuous Integration
+- Continuous Deployment
+- Scripting
+- Orchestration
+- Self-Healing Systems
+
+## Cloud Management
+- Multi-Cloud Strategy
+- Cloud Governance
+- Cost Management
+- Service Integration
+- Compliance
+
+## Networking
+- Software-Defined Networking
+- Network Segmentation
+- Load Balancing
+- Traffic Management
+- Firewall Configuration
+
+## Emerging Technologies
+- AI-Driven Operations
+- Serverless Computing
+- Microservices
+- Containerization
+- Edge Computing
+
+## Best Practices
+- Documentation
+- Knowledge Sharing
+- Continuous Learning
+- Proactive Maintenance
+- Performance Optimization

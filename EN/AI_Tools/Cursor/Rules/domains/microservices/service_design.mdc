@@ -1,0 +1,97 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Microservices Architecture and Design
+
+## Foundational Principles
+- Loose Coupling
+- High Cohesion
+- Single Responsibility
+- Independent Deployment
+- Technological Diversity
+
+## Service Decomposition
+- Domain-Driven Design
+- Bounded Contexts
+- Service Boundaries
+- Event-Driven Architecture
+- Command Query Responsibility Segregation
+
+## Communication Patterns
+- Synchronous Communication
+- Asynchronous Communication
+- Message Queues
+- Event Streaming
+- Service Discovery
+
+## Data Management
+- Database per Service
+- Event Sourcing
+- Saga Pattern
+- Eventual Consistency
+- Distributed Transactions
+
+## Deployment Strategies
+- Containerization
+- Serverless Deployment
+- Blue-Green Deployment
+- Canary Releases
+- Rolling Updates
+
+## API Design
+- RESTful APIs
+- GraphQL
+- gRPC
+- API Versioning
+- API Gateway
+
+## Resilience Patterns
+- Circuit Breaker
+- Bulkhead
+- Retry Mechanisms
+- Timeout Handling
+- Fallback Strategies
+
+## Monitoring and Observability
+- Distributed Tracing
+- Centralized Logging
+- Performance Metrics
+- Health Checks
+- Alerting Systems
+
+## Security Considerations
+- Authentication
+- Authorization
+- Service-to-Service Security
+- Rate Limiting
+- Encryption
+
+## Scalability Techniques
+- Horizontal Scaling
+- Auto-Scaling
+- Load Balancing
+- Caching Strategies
+- Resource Optimization
+
+## Performance Optimization
+- Service Optimization
+- Efficient Serialization
+- Minimal Payload
+- Compression
+- Asynchronous Processing
+
+## Emerging Technologies
+- Service Mesh
+- Serverless Microservices
+- Edge Computing
+- AI-Driven Orchestration
+- Quantum Computing Integration
+
+## Best Practices
+- Continuous Integration
+- Automated Testing
+- Documentation
+- Versioning
+- Evolutionary Architecture

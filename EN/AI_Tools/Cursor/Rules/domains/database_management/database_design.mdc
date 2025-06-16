@@ -1,0 +1,90 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Database Design and Management
+
+## Foundational Principles
+- Data Integrity
+- Scalability
+- Performance
+- Security
+- Flexibility
+
+## Database Types
+- Relational Databases
+- NoSQL Databases
+- Graph Databases
+- Time-Series Databases
+- Document Databases
+
+## Design Methodologies
+- Normalization
+- Denormalization
+- Entity-Relationship Modeling
+- Dimensional Modeling
+- Schema Design Patterns
+
+## Performance Optimization
+- Indexing Strategies
+- Query Optimization
+- Caching Mechanisms
+- Partitioning
+- Sharding
+
+## Data Modeling
+- Conceptual Model
+- Logical Model
+- Physical Model
+- Domain-Driven Design
+- Data Warehouse Design
+
+## Security Practices
+- Access Control
+- Data Encryption
+- Auditing
+- Compliance
+- Secure Configuration
+
+## Backup and Recovery
+- Disaster Recovery
+- Point-in-Time Recovery
+- Replication
+- Failover Strategies
+- Backup Validation
+
+## Scalability Techniques
+- Horizontal Scaling
+- Vertical Scaling
+- Distributed Databases
+- Cloud Database Solutions
+- Microservices Architecture
+
+## Query Optimization
+- Explain Plans
+- Indexing
+- Materialized Views
+- Stored Procedures
+- Query Caching
+
+## Emerging Technologies
+- Serverless Databases
+- Machine Learning Integration
+- Time-Series Analysis
+- Graph Query Languages
+- Multi-Model Databases
+
+## Advanced Techniques
+- Event Sourcing
+- Command Query Responsibility Segregation
+- Change Data Capture
+- Real-Time Analytics
+- Streaming Databases
+
+## Best Practices
+- Documentation
+- Performance Monitoring
+- Continuous Optimization
+- Version Control
+- Automated Testing

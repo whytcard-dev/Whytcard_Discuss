@@ -1,0 +1,104 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Backend Architecture and Design
+
+## Foundational Principles
+- Scalability
+- Performance
+- Reliability
+- Security
+- Maintainability
+
+## Architectural Patterns
+- Microservices
+- Monolithic
+- Serverless
+- Event-Driven Architecture
+- Hexagonal Architecture
+
+## Design Methodologies
+- Domain-Driven Design
+- Clean Architecture
+- CQRS
+- Event Sourcing
+- Vertical Slice Architecture
+
+## Performance Optimization
+- Caching Strategies
+- Database Indexing
+- Connection Pooling
+- Asynchronous Processing
+- Load Balancing
+
+## Concurrency and Scaling
+- Multithreading
+- Async/Await
+- Actor Model
+- Reactive Programming
+- Distributed Systems
+
+## Database Interactions
+- ORM Strategies
+- Query Optimization
+- Database Sharding
+- Read/Write Separation
+- Eventual Consistency
+
+## Authentication and Authorization
+- JWT
+- OAuth 2.0
+- Role-Based Access Control
+- Multi-Factor Authentication
+- Single Sign-On
+
+## API Design
+- RESTful Principles
+- GraphQL
+- gRPC
+- Versioning
+- Documentation
+
+## Security Considerations
+- Input Validation
+- SQL Injection Prevention
+- HTTPS/TLS
+- Rate Limiting
+- Secure Configuration
+
+## Logging and Monitoring
+- Centralized Logging
+- Distributed Tracing
+- Performance Metrics
+- Error Tracking
+- Alerting Systems
+
+## Deployment Strategies
+- Containerization
+- Serverless Deployment
+- Blue-Green Deployment
+- Continuous Integration
+- Infrastructure as Code
+
+## Testing Approaches
+- Unit Testing
+- Integration Testing
+- Contract Testing
+- Performance Testing
+- Chaos Engineering
+
+## Emerging Technologies
+- Serverless Computing
+- Edge Computing
+- Machine Learning Integration
+- Quantum Computing
+- WebAssembly
+
+## Best Practices
+- Code Quality
+- Documentation
+- Continuous Refactoring
+- Developer Experience
+- Evolutionary Architecture

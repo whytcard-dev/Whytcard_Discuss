@@ -1,0 +1,90 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Cross-Platform Mobile Development
+
+## Architectural Principles
+- Code Reusability
+- Native Performance
+- Consistent User Experience
+- Platform-Specific Optimizations
+- Modular Design
+
+## Framework Comparison
+- React Native
+- Flutter
+- Xamarin
+- Ionic
+- PhoneGap/Cordova
+
+## Performance Optimization
+- Native Rendering
+- Efficient State Management
+- Lazy Loading
+- Code Splitting
+- Ahead-of-Time Compilation
+
+## UI/UX Considerations
+- Responsive Design
+- Platform-Specific Guidelines
+- Adaptive Layouts
+- Accessibility
+- Internationalization
+
+## State Management
+- Unidirectional Data Flow
+- Immutable State
+- Reactive Programming
+- Context Management
+- Dependency Injection
+
+## Native Bridge Techniques
+- JavaScript Interfaces
+- Platform Channels
+- Native Module Development
+- Performance Bridging
+- Asynchronous Communication
+
+## Testing Strategies
+- Unit Testing
+- Widget Testing
+- Integration Testing
+- End-to-End Testing
+- Performance Benchmarking
+
+## Deployment Workflow
+- Continuous Integration
+- Automated Builds
+- App Store Deployment
+- Over-the-Air Updates
+- Version Management
+
+## Performance Monitoring
+- Crash Reporting
+- Performance Metrics
+- User Analytics
+- Error Tracking
+- Resource Utilization
+
+## Security Considerations
+- Secure Storage
+- Network Security
+- Authentication
+- Data Encryption
+- Secure Communication
+
+## Advanced Techniques
+- Augmented Reality
+- Machine Learning Integration
+- Offline Capabilities
+- Background Services
+- Push Notifications
+
+## Emerging Technologies
+- WebAssembly
+- Progressive Web Apps
+- Kotlin Multiplatform
+- SwiftUI
+- Jetpack Compose

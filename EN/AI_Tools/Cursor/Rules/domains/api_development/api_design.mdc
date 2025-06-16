@@ -1,0 +1,97 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# API Design and Development
+
+## Foundational Principles
+- Simplicity
+- Consistency
+- Scalability
+- Performance
+- Security
+
+## API Architectural Styles
+- REST
+- GraphQL
+- gRPC
+- WebSocket
+- Server-Sent Events
+
+## Design Methodologies
+- API-First Design
+- Contract-First Development
+- Domain-Driven Design
+- Versioning Strategies
+- Backward Compatibility
+
+## Authentication Methods
+- OAuth 2.0
+- JWT
+- API Keys
+- OpenID Connect
+- Multi-Factor Authentication
+
+## Request/Response Patterns
+- CRUD Operations
+- Batch Requests
+- Pagination
+- Filtering
+- Sorting
+
+## Error Handling
+- Consistent Error Responses
+- Error Codes
+- Meaningful Error Messages
+- Logging
+- Graceful Degradation
+
+## Performance Optimization
+- Caching Strategies
+- Rate Limiting
+- Compression
+- Efficient Serialization
+- Minimal Payload
+
+## Security Considerations
+- Input Validation
+- HTTPS/TLS
+- CORS
+- Request Signing
+- Threat Protection
+
+## Documentation
+- OpenAPI/Swagger
+- Interactive Documentation
+- Code Examples
+- SDKs
+- Changelog Management
+
+## Monitoring and Analytics
+- Usage Tracking
+- Performance Metrics
+- Error Tracking
+- Latency Monitoring
+- Traffic Analysis
+
+## Advanced Techniques
+- Hypermedia APIs
+- HATEOAS
+- Webhooks
+- Streaming APIs
+- Event-Driven APIs
+
+## Emerging Technologies
+- GraphQL Subscriptions
+- gRPC Web
+- WebAssembly APIs
+- AI-Powered APIs
+- Serverless APIs
+
+## Best Practices
+- Consistent Naming
+- Semantic Versioning
+- Comprehensive Testing
+- Continuous Integration
+- Developer Experience

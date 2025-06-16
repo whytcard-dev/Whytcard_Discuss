@@ -1,0 +1,90 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Continuous Integration Best Practices
+
+## Foundational Principles
+- Automated Build Processes
+- Frequent Code Integration
+- Fast Feedback Loops
+- Consistent Development Environment
+- Version Control Discipline
+
+## Version Control
+- Git Workflow Strategies
+- Branching Models
+- Commit Message Conventions
+- Code Review Processes
+- Pull Request Management
+
+## Build Automation
+- Reproducible Builds
+- Dependency Management
+- Artifact Versioning
+- Caching Strategies
+- Build Performance Optimization
+
+## Testing Strategies
+- Unit Testing
+- Integration Testing
+- End-to-End Testing
+- Property-Based Testing
+- Mutation Testing
+
+## Continuous Integration Tools
+- Jenkins
+- GitLab CI/CD
+- GitHub Actions
+- CircleCI
+- Travis CI
+
+## Code Quality
+- Static Code Analysis
+- Code Coverage
+- Linting
+- Style Enforcement
+- Technical Debt Management
+
+## Deployment Strategies
+- Blue-Green Deployment
+- Canary Releases
+- Feature Flags
+- Rolling Updates
+- A/B Testing
+
+## Infrastructure as Code
+- Terraform
+- Ansible
+- Puppet
+- Chef
+- CloudFormation
+
+## Containerization
+- Docker Best Practices
+- Kubernetes Deployment
+- Container Orchestration
+- Microservices Architecture
+- Service Mesh
+
+## Monitoring and Observability
+- Logging
+- Metrics Collection
+- Distributed Tracing
+- Performance Monitoring
+- Alerting Systems
+
+## Security Integration
+- Automated Security Scanning
+- Dependency Vulnerability Checks
+- Secret Management
+- Compliance as Code
+- Runtime Security
+
+## Collaboration and Culture
+- Cross-Functional Teams
+- Shared Responsibility
+- Continuous Learning
+- Blameless Culture
+- Knowledge Sharing

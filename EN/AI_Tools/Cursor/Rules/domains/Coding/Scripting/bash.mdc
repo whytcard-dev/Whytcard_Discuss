@@ -1,0 +1,16 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# BASH SCRIPTING
+
+## Overview
+- Comprehensive guide to Bash scripting
+- Best practices for shell programming
+
+## Key Principles
+- Efficiency in system automation
+- Error handling
+- Portability
+- Security considerations

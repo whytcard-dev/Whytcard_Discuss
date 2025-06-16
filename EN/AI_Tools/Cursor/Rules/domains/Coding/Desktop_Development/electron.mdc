@@ -1,0 +1,16 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# ELECTRON DESKTOP DEVELOPMENT
+
+## Overview
+- Comprehensive guide to cross-platform desktop apps
+- Best practices for Electron framework
+
+## Key Principles
+- Web technologies for desktop
+- Performance optimization
+- Native integration
+- Cross-platform compatibility

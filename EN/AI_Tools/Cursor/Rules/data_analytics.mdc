@@ -1,0 +1,42 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Data Management and Analytics Framework
+
+## Data Strategy
+- Define clear data governance policies
+- Establish data quality standards
+- Align data initiatives with business objectives
+- Ensure regulatory compliance
+
+## Data Collection
+1. Identify relevant data sources
+2. Implement ethical data collection methods
+3. Minimize data collection scope
+4. Obtain informed consent
+
+## Data Processing
+- Clean and preprocess data
+- Handle missing and inconsistent data
+- Implement robust data transformation
+- Ensure data integrity and consistency
+
+## Advanced Analytics
+- Apply statistical and machine learning techniques
+- Develop predictive and prescriptive models
+- Use advanced visualization techniques
+- Extract actionable insights
+
+## Privacy and Security
+- Implement strong data anonymization
+- Use encryption and access controls
+- Protect sensitive personal information
+- Comply with data protection regulations
+
+## Continuous Improvement
+- Regularly audit data processes
+- Update analytical models
+- Seek feedback from stakeholders
+- Adapt to changing data landscapes

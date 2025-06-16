@@ -1,0 +1,92 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Network Design and Architecture
+
+## Foundational Principles
+- Network Reliability
+- Scalability
+- Performance
+- Security
+- Flexibility
+
+## Network Topologies
+- Star Topology
+- Mesh Topology
+- Ring Topology
+- Bus Topology
+- Hybrid Topology
+
+## Network Layers (OSI Model)
+- Physical Layer
+- Data Link Layer
+- Network Layer
+- Transport Layer
+- Session Layer
+- Presentation Layer
+- Application Layer
+
+## IP Addressing
+- IPv4 vs IPv6
+- Subnetting
+- CIDR Notation
+- Network Address Translation
+- Private vs Public IP Addresses
+
+## Routing Protocols
+- OSPF
+- BGP
+- RIP
+- EIGRP
+- IS-IS
+
+## Network Security
+- Firewall Configuration
+- Intrusion Detection/Prevention
+- VPN Technologies
+- Zero Trust Architecture
+- Network Segmentation
+
+## Performance Optimization
+- Quality of Service (QoS)
+- Traffic Shaping
+- Load Balancing
+- Bandwidth Management
+- Latency Reduction
+
+## Wireless Networking
+- Wi-Fi Standards
+- WLAN Design
+- Mesh Networks
+- 5G Technologies
+- IoT Connectivity
+
+## Cloud Networking
+- Software-Defined Networking
+- Network Function Virtualization
+- Hybrid Cloud Networking
+- Multi-Cloud Connectivity
+- Edge Computing
+
+## Monitoring and Management
+- Network Monitoring Tools
+- Performance Metrics
+- Fault Detection
+- Configuration Management
+- Automated Provisioning
+
+## Emerging Technologies
+- 5G/6G Networks
+- Intent-Based Networking
+- Network Automation
+- AI-Driven Network Management
+- Quantum Networking
+
+## Best Practices
+- Documentation
+- Redundancy
+- Disaster Recovery
+- Continuous Learning
+- Vendor-Agnostic Approach

@@ -1,0 +1,90 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# Cybersecurity Architecture
+
+## Foundational Principles
+- Defense in Depth
+- Principle of Least Privilege
+- Zero Trust Architecture
+- Separation of Duties
+- Continuous Monitoring
+
+## Risk Management
+- Threat Modeling
+- Vulnerability Assessment
+- Risk Quantification
+- Incident Response Planning
+- Security Governance
+
+## Network Security
+- Firewall Configuration
+- Intrusion Detection/Prevention
+- Network Segmentation
+- VPN Architectures
+- Secure Network Protocols
+
+## Access Control
+- Multi-Factor Authentication
+- Identity Management
+- Role-Based Access Control
+- Single Sign-On
+- Privileged Access Management
+
+## Encryption Strategies
+- Data at Rest Encryption
+- Data in Transit Encryption
+- Key Management
+- Public Key Infrastructure
+- Secure Communication Protocols
+
+## Threat Detection
+- Security Information and Event Management (SIEM)
+- Anomaly Detection
+- Behavioral Analytics
+- Threat Intelligence
+- Predictive Security
+
+## Incident Response
+- Incident Classification
+- Forensic Analysis
+- Containment Strategies
+- Recovery Procedures
+- Post-Incident Review
+
+## Cloud Security
+- Cloud Access Security Broker
+- Container Security
+- Serverless Security
+- Multi-Cloud Security
+- Compliance Management
+
+## Application Security
+- Secure Development Lifecycle
+- Code Review
+- Penetration Testing
+- Static/Dynamic Analysis
+- Web Application Firewall
+
+## Emerging Technologies
+- AI-Powered Security
+- Quantum Cryptography
+- Blockchain Security
+- IoT Security
+- Machine Learning Threat Detection
+
+## Compliance and Regulations
+- GDPR
+- HIPAA
+- PCI DSS
+- NIST Framework
+- ISO 27001
+
+## Security Awareness
+- Employee Training
+- Phishing Simulations
+- Security Culture
+- Continuous Education
+- Human Firewall Concept
